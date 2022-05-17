@@ -53,7 +53,6 @@ productRouter.post('/', isAuth, isAdmin, expressAsyncHandler(async(req, res) =>{
         description:'sample description',
         image_url:'None',
         image_file:'/images/p2.jpg',
-        additional_images:'None',
     });
     const createdProduct = await product.save();
     res.send({message: 'Product Created', product: createdProduct});
