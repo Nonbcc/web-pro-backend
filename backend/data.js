@@ -26,7 +26,6 @@ const data = {
             description:'She is the perfect houseplant. She’ll live in almost any light conditions and looks spectacular.',
             image_url:'None',
             image_file:'/images/p1.jpg',
-            additional_images:'None',
         },
         {
             name:'Venus',
@@ -38,7 +37,6 @@ const data = {
             description:'-None-',
             image_url:'None',
             image_file:'/images/p2.jpg',
-            additional_images:'None',
         },
         {
             name:'Sarah',
@@ -50,7 +48,6 @@ const data = {
             description:'-None-',
             image_url:'None',
             image_file:'/images/p3.jpg',
-            additional_images:'None',
         },
         {
             name:'Marcel',
@@ -62,7 +59,6 @@ const data = {
             description:'Marcel stars in our RHS Chelsea Flower Show exhibit, the \'Pharmacy of House Plants\'. He\'s a limited edition, so you’ll have to be quick.',
             image_url:'None',
             image_file:'/images/p4.jpg',
-            additional_images:'None',
         },
         {
             name:'Fleur',
@@ -74,7 +70,6 @@ const data = {
             description:'-None-',
             image_url:'None',
             image_file:'/images/p5.jpg',
-            additional_images:'None',
         },
         {
             name:'Sharon',
@@ -86,7 +81,6 @@ const data = {
             description:'-None-',
             image_url:'None',
             image_file:'/images/p6.jpg',
-            additional_images:'None',
         },
     ]
 };
